@@ -1,3 +1,9 @@
+# Integrantes= Carlos Martín Stefanelli D'Elias y Leonel Rolon.
+# Padrones= 100488 y 101009.
+# Corrector= Lucas Perea.
+# Cuatrimestre= segundo 2017.
+# Materia= algoritmos y programacion 1.
+
 from constantes import *
 from objetos import *
 import os, sys
